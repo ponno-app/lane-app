@@ -4,7 +4,7 @@ title: Lane（陸上タイマーカメラ）
 
 # Lane（陸上タイマーカメラ）
 
-陸上競技の動画に、TV中継風のタイムと大会名・選手名を重ねて撮影・書き出しする Android アプリです。
+陸上競技の動画に、TV中継風のタイムと大会名・選手名を重ねて撮影・書き出しする Android・iOS・iPadOS アプリです。
 
 - [利用規約](terms-of-use.html)
 - [プライバシーポリシー](privacy-policy.html)
